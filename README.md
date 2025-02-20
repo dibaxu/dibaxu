@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pedro</h1>
+<h1 align="center">I'm Pedro</h1>
 <h3 align="center">A frontend programmer in constant discovery and learning</h3>
 
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://pedrosota.vercel.app/](https://pedrosota.vercel.app/)
-
-- ⚡ Fun fact **I play bass and piano**
+- ⚡ **I play bass and piano**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
